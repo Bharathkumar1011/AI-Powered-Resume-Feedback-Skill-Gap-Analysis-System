@@ -120,8 +120,8 @@ Everything runs in-browser through a clean, responsive **Streamlit interface**.
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/your-username/ai-resume-feedback.git
-cd ai-resume-feedback
+git clone https://github.com/Bharathkumar1011/AI-Powered-Resume-Feedback-Skill-Gap-Analysis-System.git
+cd AI-Powered-Resume-Feedback-Skill-Gap-Analysis-System
 ```
 
 ### 2. Install dependencies
